@@ -1,0 +1,7 @@
+C:\git\podstawy_programowania\zajęcia pierwsze\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\git\podstawy_programowania\zajęcia pierwsze\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\git\podstawy_programowania\zajęcia pierwsze\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\git\podstawy_programowania\zajęcia pierwsze\ConsoleApp1\ConsoleApp1\obj\Debug\pierwszy_plik.csprojAssemblyReference.cache
+C:\git\podstawy_programowania\zajęcia pierwsze\ConsoleApp1\ConsoleApp1\obj\Debug\pierwszy_plik.csproj.CoreCompileInputs.cache
+C:\git\podstawy_programowania\zajęcia pierwsze\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\git\podstawy_programowania\zajęcia pierwsze\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
